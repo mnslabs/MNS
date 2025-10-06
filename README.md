@@ -2,8 +2,9 @@
 
 [![Minima Compatible](https://img.shields.io/badge/Minima-Compatible-blue)](https://minima.global)
 [![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-MAST-purple)](https://docs.minima.global)
-[![Status: Development](https://img.shields.io/badge/Status-95%25%20Complete-green)]()
 [![License](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+<br>
+[![Status: Development](https://img.shields.io/badge/Status-95%25%20Complete-green)]()
 
 
 ## 🌟 Overview
